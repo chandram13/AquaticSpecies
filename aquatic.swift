@@ -16,7 +16,7 @@ for s in totalList {allSharks = s print(allSharks)}
 func safeSpecies(eatPrey)
 eatPrey = ["These shark species are not dangerous if it's consumption is limited to survive and doesn't harm humans."]
 print(eatPrey)
-safeSharks=["Whale":{0},"Nurse":{1},"Basking":{2},"Leopard":{3},"Angel":{4},"Bamboo":{5},"Goblin":{6},"Greenland":{7},"Sand Tiger":{8}]
+safeSharks=["Whale":0,"Nurse":1,"Basking":2,"Leopard":3,"Angel":4,"Bamboo":5,"Goblin":6,"Greenland":7,"Sand Tiger":8]
 for safe in safeSharks {safeHuman = safe; print(safeHuman)}
 
 class veryDangerous {
@@ -30,7 +30,8 @@ class veryDangerous {
     2},"Oceanic Whitetip":{
     3},"Bull":{
     4}]
-deadlySharks.forEach { d in
+
+func deadlySharks.forEach { d in
     print(d)
 }
 

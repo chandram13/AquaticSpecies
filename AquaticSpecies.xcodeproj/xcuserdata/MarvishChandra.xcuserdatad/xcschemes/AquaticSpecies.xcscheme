@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "ED7C98A42E1EB3D4F8A88E13"
+               BuildableName = "AquaticSpecies.app"
+               BlueprintName = "AquaticSpecies"
+               ReferencedContainer = "container:AquaticSpecies.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "ED7C98A42E1EB3D4F8A88E13"
+            BuildableName = "AquaticSpecies.app"
+            BlueprintName = "AquaticSpecies"
+            ReferencedContainer = "container:AquaticSpecies.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>

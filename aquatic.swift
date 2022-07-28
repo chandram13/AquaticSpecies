@@ -22,14 +22,14 @@ for safe in safeSharks {safeHuman = safe; print(safeHuman)}
 class veryDangerous {
 
     func deadlySpecies();
-        deadlySharks = ["Great White": {
+        deadlySharks = ["Great White":
 0
-}
-,"Tiger":{
-    1},"Shortfin Mako":{
-    2},"Oceanic Whitetip":{
-    3},"Bull":{
-    4}]
+
+,"Tiger":
+    1,"Shortfin Mako":
+    2,"Oceanic Whitetip":
+    3,"Bull":
+    4]
 
 func deadlySharks.forEach { d in
     print(d)
